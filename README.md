@@ -1,1 +1,4 @@
-# tugas-1914370116-16112019-1
+# Bilangan Faktorial Menggunakan C
+
+
+Bilangan Faktorial dan perhitungan hasilnya menggunakan for-loop. Hasil cetak lengkap dengan simbol faktorial dan hasil perkalian dari deret bilangan.
